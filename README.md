@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/directory-file-count/shivamshinde123/Fake-Review-Bounty-Hunter)
 ![](https://img.shields.io/github/license/shivamshinde123/Fake-Review-Bounty-Hunter)
 
-A robust system to detect and flag suspicious or fake reviews on platforms like Yelp using machine learning, NLP, and graph algorithms. The project combines ETL pipelines, database design, review-pattern detection, and an interactive dashboard to automate review screening.
+A  system to detect and flag suspicious or fake reviews on platforms like Yelp using machine learning, NLP, and graph algorithms. The project combines ETL pipelines, database design, review-pattern detection, and an interactive frontend to show the detected patterns.
 
 ---
 
@@ -25,7 +25,7 @@ A robust system to detect and flag suspicious or fake reviews on platforms like 
 
 ## Overview
 
-**Fake-Review-Bounty-Hunter** automates the process of ingesting raw Yelp review data, preprocessing and storing it in SQL and Neo4j, and provides a web dashboard for users and admins to detect fake or suspicious review patterns.
+**Fake-Review-Bounty-Hunter** automates the process of ingesting raw Yelp review data, preprocessing and storing it Neo4j, and provides a web frontend for users and admins to detect fake or suspicious review patterns.
 
 Key objectives:
 - Load, filter, and save reviews, users, and businesses data.
@@ -119,7 +119,7 @@ Fake-Review-Bounty-Hunter/
 ## Technical Details
 
 - **Key Libraries:**
-    - `streamlit`, `transformers`, `sentence-transformers`, `pandas`, `sqlalchemy`, `neo4j`, `torch`, `scikit-learn`, etc.
+    - `streamlit`, `transformers`, `sentence-transformers`, `pandas`, `neo4j`, `torch`, `scikit-learn`, etc.
 - **Pattern Detection:**
     - Embedding-based similarity search for duplicate reviews
     - Sentiment analysis for rating/text mismatch
@@ -139,5 +139,6 @@ Fake-Review-Bounty-Hunter/
 4. The system automatically scans for duplicate content, inconsistent ratings, burst patterns, and inappropriateness, alerting the user/admin as necessary.
 
 ---
+
 
 
