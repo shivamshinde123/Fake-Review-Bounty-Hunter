@@ -13,9 +13,6 @@ A robust system to detect and flag suspicious or fake reviews on platforms like 
 - [Usage](#usage)
 - [Technical Details](#technical-details)
 - [Sample Workflow](#sample-workflow)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
@@ -134,3 +131,4 @@ Fake-Review-Bounty-Hunter/
 4. The system automatically scans for duplicate content, inconsistent ratings, burst patterns, and inappropriateness, alerting the user/admin as necessary.
 
 ---
+
