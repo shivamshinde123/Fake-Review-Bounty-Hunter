@@ -1,4 +1,12 @@
 # Fake-Review-Bounty-Hunter
+---
+# Credit Card Fruad Detection
+![](https://img.shields.io/github/last-commit/shivamshinde123/Fake-Review-Bounty-Hunter)
+![](https://img.shields.io/github/languages/count/shivamshinde123/Fake-Review-Bounty-Hunter)
+![](https://img.shields.io/github/languages/top/shivamshinde123/Fake-Review-Bounty-Hunter)
+![](https://img.shields.io/github/repo-size/shivamshinde123/Fake-Review-Bounty-Hunter)
+![](https://img.shields.io/github/directory-file-count/shivamshinde123/Fake-Review-Bounty-Hunter)
+![](https://img.shields.io/github/license/shivamshinde123/Fake-Review-Bounty-Hunter)
 
 A robust system to detect and flag suspicious or fake reviews on platforms like Yelp using machine learning, NLP, and graph algorithms. The project combines ETL pipelines, database design, review-pattern detection, and an interactive dashboard to automate review screening.
 
@@ -131,4 +139,5 @@ Fake-Review-Bounty-Hunter/
 4. The system automatically scans for duplicate content, inconsistent ratings, burst patterns, and inappropriateness, alerting the user/admin as necessary.
 
 ---
+
 
