@@ -10,6 +10,10 @@
 
 A  system to detect and flag suspicious or fake reviews on platforms like Yelp using machine learning, NLP, and graph algorithms. The project combines ETL pipelines, database design, review-pattern detection, and an interactive frontend to show the detected patterns.
 
+## Detailed Documentation
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/shivamshinde123/Fake-Review-Bounty-Hunter)
+
 ---
 
 ## Table of Contents
